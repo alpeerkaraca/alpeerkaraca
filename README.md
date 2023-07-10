@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alpeerkaraca" target="blank"><img src="https://img.shields.io/twitter/follow/alpeerkaraca?logo=twitter&style=for-the-badge" alt="alpeerkaraca" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://github.com/alpeerkaraca/alpeerkaraca.github.io)
-
-- 🌱 I’m currently learning **JavaScript and Rails**
+- 🌱 I’m currently learning **Rails**
 
 - 📫 How to reach me **alpeerkaraca@gmail.com**
 
