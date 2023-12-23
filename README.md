@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpeerkaraca" alt="alpeerkaraca" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and PostgreSQL**
+- 🌱 Nowadays spending time with backend development and image processing **
 
 - 📫 How to reach me **alpeerkaraca@gmail.com**
 
