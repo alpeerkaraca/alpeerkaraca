@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=alpeerkaraca&label=Profile%20views&color=0eb4a1&style=plastic" alt="alpeerkaraca" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alpeerkaraca" alt="alpeerkaraca" />
-  </a>
-</p>
 
 - 🌱 Nowadays spending time with backend development and image processing **
 
