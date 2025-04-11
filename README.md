@@ -6,9 +6,9 @@
 </p>
 
 
-- 🌱 Nowadays spending time with backend development and image processing **
+- 🌱 Nowadays spending time with backend development and AI **
 
-- 📫 How to reach me **alpeerkaraca@gmail.com**
+- 📫 How to reach me **alper@alpeerkaraca.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
