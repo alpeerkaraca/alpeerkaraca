@@ -13,7 +13,8 @@ I build robust, intelligent, and scalable systems on the JVM.
 ![](https://nirzak-streak-stats.vercel.app/?user=alpeerkaraca&theme=radical&hide_border=false&mode=weekly)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpeerkaraca&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
