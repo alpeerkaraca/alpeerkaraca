@@ -1,7 +1,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=500&size=25&pause=1000&color=6734C3&center=true&vCenter=true&random=true&width=750&lines=Write+%E2%86%92+Test+%E2%86%92+Ship+%E2%86%92+Monitor+%E2%86%92+Learn+%E2%86%92+Repeat;Hi+I'm+Alper+Karaca;I+specialize+in+backend+development)
 # Hi there, I'm Alper Karaca 👋
 ### Backend Developer | AI Enthusiast
-I build robust, intelligent, and scalable systems on the JVM.
+I build robust, intelligent, and scalable systems with Java.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpeerkaraca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpeerkaraca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alper@alpeerkaraca.site) 
