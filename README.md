@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Alper Karaca 👋
 
-I'm a **Backend Software Engineer** at **EPAM Systems**, building reactive, event-driven microservices and complex enterprise omnichannel integrations (**Java 17/21, Spring Boot 3, Spring WebFlux, Solace PubSub+, Fluent Commerce OMS, AWS**) across 10+ global brands.
+I'm a **Backend Software Engineer** at **EPAM Systems**, building reactive, event-driven microservices and complex distributed backend integrations (**Java 17/21, Spring Boot 3, Spring WebFlux, Event-Driven Architecture, AWS**) for large-scale enterprise platforms.
 
 - 🔭 **Focus Areas:** Event-Driven Microservices, Distributed Consistency (Saga / Outbox / CDC), High-Throughput Messaging, and Applied AI Agents (MCP & Hybrid RAG)
 - 🏅 **Certifications:** AWS Certified Developer – Associate · Claude Certified Architect · Fluent Commerce OMS Developer · Google Gemini Enterprise Specialist · GitHub Copilot (GH-300)
